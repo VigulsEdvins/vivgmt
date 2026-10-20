@@ -1,0 +1,410 @@
+{
+  "admin.js": {
+    "mtime": 1792416275.6553001,
+    "seen": 1792416657.2688475,
+    "ast_hash": "d28cd725d0009c117760605f43d88ccc",
+    "semantic_hash": "d28cd725d0009c117760605f43d88ccc"
+  },
+  "app.js": {
+    "mtime": 1792416316.3596227,
+    "seen": 1792416657.2688544,
+    "ast_hash": "70e9f5edf16a2d0026e265fd3e2231e0",
+    "semantic_hash": "70e9f5edf16a2d0026e265fd3e2231e0"
+  },
+  "assets/vendor/Observer.min.js": {
+    "mtime": 1792412088.0837414,
+    "seen": 1792414776.4103453,
+    "ast_hash": "8c29ce191cffa3a338394c6449290de7",
+    "semantic_hash": "8c29ce191cffa3a338394c6449290de7"
+  },
+  "assets/vendor/ScrollTrigger.min.js": {
+    "mtime": 1792412088.0838406,
+    "seen": 1792414776.4103477,
+    "ast_hash": "00a3e5c78a5bfc5e47677f5c8cdb9030",
+    "semantic_hash": "00a3e5c78a5bfc5e47677f5c8cdb9030"
+  },
+  "assets/vendor/gsap.min.js": {
+    "mtime": 1792412088.083465,
+    "seen": 1792414776.4103503,
+    "ast_hash": "5e6e6cba1d2eabb40740bdc12f736a3c",
+    "semantic_hash": "5e6e6cba1d2eabb40740bdc12f736a3c"
+  },
+  "assets/vendor/lenis.min.js": {
+    "mtime": 1792412088.0836263,
+    "seen": 1792414776.4103527,
+    "ast_hash": "81fb34b58a776a1028952cb5f89250a5",
+    "semantic_hash": "81fb34b58a776a1028952cb5f89250a5"
+  },
+  "site-data.js": {
+    "mtime": 1792416360.0709698,
+    "seen": 1792416657.2688708,
+    "ast_hash": "8001859514be5204ffb9cb5a6cbe65fe",
+    "semantic_hash": "8001859514be5204ffb9cb5a6cbe65fe"
+  },
+  "admin.html": {
+    "mtime": 1792416186.3975954,
+    "seen": 1792416657.268873,
+    "ast_hash": "48112a7d4107cdab6ee1446c78235b0d",
+    "semantic_hash": "48112a7d4107cdab6ee1446c78235b0d"
+  },
+  "index.html": {
+    "mtime": 1792416324.7656894,
+    "seen": 1792416657.2688746,
+    "ast_hash": "b00c93ac1ca058cd1d1e0931a29d6238",
+    "semantic_hash": "b00c93ac1ca058cd1d1e0931a29d6238"
+  },
+  "assets/images/1773702313-danielle-moore-arturo-torres-summer-25-quay19.jpg": {
+    "mtime": 1792412134.0707457,
+    "seen": 1792414776.4103625,
+    "ast_hash": "5e4ebcf0057c047da3798b21ce1a7489",
+    "semantic_hash": "5e4ebcf0057c047da3798b21ce1a7489"
+  },
+  "assets/images/1774484653-byrum-20200305-nike-basketball-studio-0416.jpg": {
+    "mtime": 1792412134.4137485,
+    "seen": 1792414776.4103646,
+    "ast_hash": "9d34850f8995d1af6204c578d4034932",
+    "semantic_hash": "9d34850f8995d1af6204c578d4034932"
+  },
+  "assets/images/1774484687-221112_nike-hydrostrong_5316.jpg": {
+    "mtime": 1792412134.8967524,
+    "seen": 1792414776.4103673,
+    "ast_hash": "c8f664114a164f8d987c527cf640b2dc",
+    "semantic_hash": "c8f664114a164f8d987c527cf640b2dc"
+  },
+  "assets/images/1774484866-byrum-191105-adidas-victor-702.jpg": {
+    "mtime": 1792412134.227747,
+    "seen": 1792414776.4103696,
+    "ast_hash": "64b1335237983fc1b6e8314f76115647",
+    "semantic_hash": "64b1335237983fc1b6e8314f76115647"
+  },
+  "assets/images/1774485213-160609-harper-christian-1484-3.jpg": {
+    "mtime": 1792412134.3927484,
+    "seen": 1792414776.410372,
+    "ast_hash": "0c60b8e446d7fe5e515bf7d20f791742",
+    "semantic_hash": "0c60b8e446d7fe5e515bf7d20f791742"
+  },
+  "assets/images/1777465143-20180623_foam_test_585.jpg": {
+    "mtime": 1792412134.4597487,
+    "seen": 1792414776.4103744,
+    "ast_hash": "e10579199136b25769024189b8ac4419",
+    "semantic_hash": "e10579199136b25769024189b8ac4419"
+  },
+  "assets/images/1777465200-cera-hensley-food-photography-beverage-stilllife-16.jpg": {
+    "mtime": 1792412134.6597505,
+    "seen": 1792414776.4103768,
+    "ast_hash": "fbe3e7ec35f51090e70602b2f63b0543",
+    "semantic_hash": "fbe3e7ec35f51090e70602b2f63b0543"
+  },
+  "assets/images/1777466641-cera-hensley-beauty-photography-stilllife-cosmetics-21.jpg": {
+    "mtime": 1792412134.5927498,
+    "seen": 1792414776.410379,
+    "ast_hash": "55c866fd80200f56ce70e7ff56cf3a36",
+    "semantic_hash": "55c866fd80200f56ce70e7ff56cf3a36"
+  },
+  "assets/images/1778184120-gap-studio-zac-posen-denim-portrait.jpg": {
+    "mtime": 1792412134.961753,
+    "seen": 1792414776.4103813,
+    "ast_hash": "c633ebcc01ed1ceb0b3c236eec7236b6",
+    "semantic_hash": "c633ebcc01ed1ceb0b3c236eec7236b6"
+  },
+  "assets/images/1778184121-danielle-moore-desert-couture-fashion-editorial.jpg": {
+    "mtime": 1792412134.9797533,
+    "seen": 1792414776.4103837,
+    "ast_hash": "acf4f38336dedb0b56beba80df377321",
+    "semantic_hash": "acf4f38336dedb0b56beba80df377321"
+  },
+  "assets/images/1778184121-danielle-moore-tidal-magazine-black-and-white-fashion-portrait.jpg": {
+    "mtime": 1792412134.826752,
+    "seen": 1792414776.4103858,
+    "ast_hash": "a0b092ce50f5aa76088599dff40e89f3",
+    "semantic_hash": "a0b092ce50f5aa76088599dff40e89f3"
+  },
+  "assets/images/1778184121-fashion-editorial-horse-barragan-stables-mexico.jpg": {
+    "mtime": 1792412135.1577547,
+    "seen": 1792414776.4103885,
+    "ast_hash": "e3451d7954610228abfa81c717a27a96",
+    "semantic_hash": "e3451d7954610228abfa81c717a27a96"
+  },
+  "assets/images/1778275287-kinship-makeup-sunscreen-stilllife-photoshoot-production-6.jpg": {
+    "mtime": 1792412135.2947557,
+    "seen": 1792414776.4103909,
+    "ast_hash": "4262693e6bcdb93a64a04396904683f0",
+    "semantic_hash": "4262693e6bcdb93a64a04396904683f0"
+  },
+  "assets/images/1778772904-danielle-moore-phils-skincare-mens-beauty-portrait.jpg": {
+    "mtime": 1792412135.093754,
+    "seen": 1792414776.4103932,
+    "ast_hash": "959136c81d3aad8698648d4a835b9a0c",
+    "semantic_hash": "959136c81d3aad8698648d4a835b9a0c"
+  },
+  "assets/images/1778793995-arturo-torres-fashion-photography-advertising-photographer-15.jpg": {
+    "mtime": 1792412135.1687548,
+    "seen": 1792414776.4103956,
+    "ast_hash": "f71e8162cffb5faec450c31da466c51b",
+    "semantic_hash": "f71e8162cffb5faec450c31da466c51b"
+  },
+  "assets/images/1778793996-arturo-torres-fashion-photography-advertising-photographer-25.jpg": {
+    "mtime": 1792412135.7377594,
+    "seen": 1792414776.410398,
+    "ast_hash": "eb9e1483d9e1712f4d9c597c10d1a90a",
+    "semantic_hash": "eb9e1483d9e1712f4d9c597c10d1a90a"
+  },
+  "assets/images/1778795293-quinn-gravier-advertising-photographer-portraits-celebrity26.jpg": {
+    "mtime": 1792412135.2717557,
+    "seen": 1792414776.4104006,
+    "ast_hash": "d5eae0b2c9e6b04d9995c28bba17a7b9",
+    "semantic_hash": "d5eae0b2c9e6b04d9995c28bba17a7b9"
+  },
+  "assets/images/1778795294-quinn-gravier-advertising-photographer-portraits-celebrity36.jpg": {
+    "mtime": 1792412135.4917574,
+    "seen": 1792414776.4104028,
+    "ast_hash": "f2e0f44e0aa41a6e7f17398cd273c8d8",
+    "semantic_hash": "f2e0f44e0aa41a6e7f17398cd273c8d8"
+  },
+  "assets/images/1778795294-quinn-gravier-advertising-photographer-portraits-celebrity47.jpg": {
+    "mtime": 1792412135.2577555,
+    "seen": 1792414776.4104052,
+    "ast_hash": "3303f8c2b7614b1bbd43129d38dc76e0",
+    "semantic_hash": "3303f8c2b7614b1bbd43129d38dc76e0"
+  },
+  "assets/images/1778795295-quinn-gravier-advertising-photographer-portraits-celebrity33.jpg": {
+    "mtime": 1792412135.6547587,
+    "seen": 1792414776.4104075,
+    "ast_hash": "927900023ccf3141b8311a1d22397970",
+    "semantic_hash": "927900023ccf3141b8311a1d22397970"
+  },
+  "assets/images/1778795295-quinn-gravier-advertising-photographer-portraits-celebrity45.jpg": {
+    "mtime": 1792412135.7067592,
+    "seen": 1792414776.41041,
+    "ast_hash": "8aa2c57f66b0d7a7f0af909a4dd3a555",
+    "semantic_hash": "8aa2c57f66b0d7a7f0af909a4dd3a555"
+  },
+  "assets/images/1778868514-cera-hensley-x-peaceout.jpg": {
+    "mtime": 1792412135.683759,
+    "seen": 1792414776.4104125,
+    "ast_hash": "bbf802f5c4f2948aba6f235248b5f683",
+    "semantic_hash": "bbf802f5c4f2948aba6f235248b5f683"
+  },
+  "assets/images/1779132350-jonathan-mannion-hiphop-music-rap-photography-advertising-photographer-archive-5.jpg": {
+    "mtime": 1792412136.1247628,
+    "seen": 1792414776.410415,
+    "ast_hash": "d3071c36c8103f935137c25ca3b2f959",
+    "semantic_hash": "d3071c36c8103f935137c25ca3b2f959"
+  },
+  "assets/images/1779142866-arturo-torres-advertising-photographer-lifestyle-fashion-sports30.jpg": {
+    "mtime": 1792412135.5877583,
+    "seen": 1792414776.410417,
+    "ast_hash": "3527159c319cbe4a7ed6ec2e57c83434",
+    "semantic_hash": "3527159c319cbe4a7ed6ec2e57c83434"
+  },
+  "assets/images/1779142866-arturo-torres-advertising-photographer-lifestyle-fashion-sports88.jpg": {
+    "mtime": 1792412135.7587597,
+    "seen": 1792414776.4104195,
+    "ast_hash": "8db9c2dcc876ff7af9d4ffeee0c2b31a",
+    "semantic_hash": "8db9c2dcc876ff7af9d4ffeee0c2b31a"
+  },
+  "assets/images/1779142867-arturo-torres-advertising-photographer-lifestyle-fashion-sports13.jpg": {
+    "mtime": 1792412135.927761,
+    "seen": 1792414776.410422,
+    "ast_hash": "a6a113dbe020b64759517817e2248fd3",
+    "semantic_hash": "a6a113dbe020b64759517817e2248fd3"
+  },
+  "assets/images/1779144619-jonathan-mannion-advertising-photographer-lifestyle-celebrity-sports3.jpg": {
+    "mtime": 1792412135.9957616,
+    "seen": 1792414776.4104242,
+    "ast_hash": "afa040002aff08e0bda4b002c5f06b41",
+    "semantic_hash": "afa040002aff08e0bda4b002c5f06b41"
+  },
+  "assets/images/1779144620-jonathan-mannion-hiphop-music-rap-photography-advertising-photographer-sports22.jpg": {
+    "mtime": 1792412136.2237635,
+    "seen": 1792414776.4104266,
+    "ast_hash": "ea78d82836bf4c064a770792f6071b2a",
+    "semantic_hash": "ea78d82836bf4c064a770792f6071b2a"
+  },
+  "assets/images/1779144620-jonathan-mannion-hiphop-music-rap-photography-advertising-photographer-sports32.jpg": {
+    "mtime": 1792412136.0947623,
+    "seen": 1792414776.410429,
+    "ast_hash": "489d86cc42005c73ad2e922ce3d5ff59",
+    "semantic_hash": "489d86cc42005c73ad2e922ce3d5ff59"
+  },
+  "assets/images/1779144620-jonathan-mannion-hiphop-music-rap-photography-advertising-photographer-sports48.jpg": {
+    "mtime": 1792412136.3957648,
+    "seen": 1792414776.4104311,
+    "ast_hash": "ccd118a8cf2cf26d2f959b267cf7950d",
+    "semantic_hash": "ccd118a8cf2cf26d2f959b267cf7950d"
+  },
+  "assets/images/1779483426-garrett-byrum-producion-photography-advertising-powerade-fifa-3.jpg": {
+    "mtime": 1792412136.1127627,
+    "seen": 1792414776.4104338,
+    "ast_hash": "f5b9e981c63e5dc664dc8ad8bd077957",
+    "semantic_hash": "f5b9e981c63e5dc664dc8ad8bd077957"
+  },
+  "assets/images/1779918224-beauty-model-photography-beth-sternbaum-la-nyc-63.jpg": {
+    "mtime": 1792412136.1297626,
+    "seen": 1792414776.4104362,
+    "ast_hash": "8e555ec06408d2c4957f2926aa482106",
+    "semantic_hash": "8e555ec06408d2c4957f2926aa482106"
+  },
+  "assets/images/1779918225-beauty-model-photography-beth-sternbaum-la-nyc-50.jpg": {
+    "mtime": 1792412136.4487653,
+    "seen": 1792414776.4104383,
+    "ast_hash": "cdd06c9ae85c306d86fc8297657d71be",
+    "semantic_hash": "cdd06c9ae85c306d86fc8297657d71be"
+  },
+  "assets/images/1779918226-beauty-model-photography-beth-sternbaum-la-nyc-52.jpg": {
+    "mtime": 1792412136.2807639,
+    "seen": 1792414776.4104407,
+    "ast_hash": "c9bbdc0ee370596213a68dfbca7e1d66",
+    "semantic_hash": "c9bbdc0ee370596213a68dfbca7e1d66"
+  },
+  "assets/images/1779918227-beauty-model-photography-beth-sternbaum-la-nyc-46.jpg": {
+    "mtime": 1792412136.300764,
+    "seen": 1792414776.4104447,
+    "ast_hash": "54816c8a780bcdbc0a3da10a035e2fb4",
+    "semantic_hash": "54816c8a780bcdbc0a3da10a035e2fb4"
+  },
+  "assets/images/1779918229-beauty-model-photography-beth-sternbaum-la-nyc-10.jpg": {
+    "mtime": 1792412136.5377662,
+    "seen": 1792414776.4104471,
+    "ast_hash": "a22ead39625d3dfeb98db1d3f8df4071",
+    "semantic_hash": "a22ead39625d3dfeb98db1d3f8df4071"
+  },
+  "assets/images/1779948848-jason-kent-beauty-photographer-la-nyc-still-life71.jpg": {
+    "mtime": 1792412137.5387745,
+    "seen": 1792414776.4104495,
+    "ast_hash": "335b0e81fca86f544df8f353921d2a26",
+    "semantic_hash": "335b0e81fca86f544df8f353921d2a26"
+  },
+  "assets/images/1779948857-jason-kent-beauty-photographer-la-nyc-still-life74.jpg": {
+    "mtime": 1792412136.536766,
+    "seen": 1792414776.410452,
+    "ast_hash": "d19e7ff5576eb538fbf5b20a7cbf5494",
+    "semantic_hash": "d19e7ff5576eb538fbf5b20a7cbf5494"
+  },
+  "assets/images/1779948864-jason-kent-beauty-photographer-la-nyc-still-life107.jpg": {
+    "mtime": 1792412136.892769,
+    "seen": 1792414776.4104543,
+    "ast_hash": "af41b7b49588c54d09e9e9594a122f36",
+    "semantic_hash": "af41b7b49588c54d09e9e9594a122f36"
+  },
+  "assets/images/1779948867-jason-kent-beauty-photographer-la-nyc-still-life141.jpg": {
+    "mtime": 1792412136.6717672,
+    "seen": 1792414776.4104567,
+    "ast_hash": "00ea608dabe426e725719aeb929c16c4",
+    "semantic_hash": "00ea608dabe426e725719aeb929c16c4"
+  },
+  "assets/images/1782286849-morpheliplock3446.jpg": {
+    "mtime": 1792412136.7257676,
+    "seen": 1792414776.4104588,
+    "ast_hash": "564b5d7b461854e147058a3660cc46b0",
+    "semantic_hash": "564b5d7b461854e147058a3660cc46b0"
+  },
+  "assets/images/1782286850-photo-jan-07-2026-3-32-47-pm.jpg": {
+    "mtime": 1792412137.4047732,
+    "seen": 1792414776.4104612,
+    "ast_hash": "b595ad41d8c3bae063742ace0fefc356",
+    "semantic_hash": "b595ad41d8c3bae063742ace0fefc356"
+  },
+  "assets/images/1784525114-arturo-torres-travis-matthew-catalog-photography-05.jpg": {
+    "mtime": 1792412136.9277694,
+    "seen": 1792414776.4104636,
+    "ast_hash": "c02ab0d48d56cc23051b93762439b3b7",
+    "semantic_hash": "c02ab0d48d56cc23051b93762439b3b7"
+  },
+  "assets/images/1784528935-danielle-moore-old-navy-kids-art-direction-product-styling-color-collection-instagram-03.jpg": {
+    "mtime": 1792412137.2097716,
+    "seen": 1792414776.4104657,
+    "ast_hash": "6c599d4b545b0ea2ec2d6c472f7fa787",
+    "semantic_hash": "6c599d4b545b0ea2ec2d6c472f7fa787"
+  },
+  "assets/images/favicon-96x96.png": {
+    "mtime": 1792412089.9623046,
+    "seen": 1792414776.4104683,
+    "ast_hash": "8350685510ad892bb819828af9be1ad2",
+    "semantic_hash": "8350685510ad892bb819828af9be1ad2"
+  },
+  "assets/images/mux-023u7rfeEpGMqj3RtVjZtvuPGQMnyWkNw.jpg": {
+    "mtime": 1792412134.1027458,
+    "seen": 1792414776.4104707,
+    "ast_hash": "60d06791646397029a1b7be25fb90e58",
+    "semantic_hash": "60d06791646397029a1b7be25fb90e58"
+  },
+  "assets/images/mux-FHz8NP01m1g9j4zStyj1XZfio4fLsLkHz.jpg": {
+    "mtime": 1792412134.3307478,
+    "seen": 1792414776.4104729,
+    "ast_hash": "af82b71bf1b793cc6ef3f37bef2439a7",
+    "semantic_hash": "af82b71bf1b793cc6ef3f37bef2439a7"
+  },
+  "assets/images/mux-Q2PGRS54ZVUS418j1vLtqaaoa01lAh5KM.jpg": {
+    "mtime": 1792412134.9527528,
+    "seen": 1792414776.4104753,
+    "ast_hash": "ebd560150e73f548f044f880474ee290",
+    "semantic_hash": "ebd560150e73f548f044f880474ee290"
+  },
+  "assets/images/mux-g01MHyRNqn01zJw6x81ckEU1CILwna5kTF.jpg": {
+    "mtime": 1792412134.8117518,
+    "seen": 1792414776.4104776,
+    "ast_hash": "196fff60e980848c9a6a7326f9101250",
+    "semantic_hash": "196fff60e980848c9a6a7326f9101250"
+  },
+  "assets/images/mux-hXfMGSk00sYeao99EqE8eqg3lRjNXNrDE.jpg": {
+    "mtime": 1792412134.0667455,
+    "seen": 1792414776.41048,
+    "ast_hash": "a120f35a528623b894b77a0f96b8d41a",
+    "semantic_hash": "a120f35a528623b894b77a0f96b8d41a"
+  },
+  "assets/images/mux-moiR01sgh1u3bxRJ00nnzsQ202B7uZT7BX4.jpg": {
+    "mtime": 1792412134.140746,
+    "seen": 1792414776.4104824,
+    "ast_hash": "874bf1922c7bb98383d19820aa724f33",
+    "semantic_hash": "874bf1922c7bb98383d19820aa724f33"
+  },
+  "assets/svg/favicon.svg": {
+    "mtime": 1792412244.3426638,
+    "seen": 1792414776.4104848,
+    "ast_hash": "d6f97dddabe38a8b7861665f48d00c64",
+    "semantic_hash": "d6f97dddabe38a8b7861665f48d00c64"
+  },
+  "assets/svg/logo-viv.svg": {
+    "mtime": 1792412245.9746773,
+    "seen": 1792414776.410487,
+    "ast_hash": "492857054747e4e0cfad359cb8867b53",
+    "semantic_hash": "492857054747e4e0cfad359cb8867b53"
+  },
+  "assets/images/mux-023u7rfeEpGMqj3RtVjZtvuPGQMnyWkNw.mp4": {
+    "mtime": 1792412192.6232328,
+    "seen": 1792414776.4104896,
+    "ast_hash": "da1bded9fa2f4bb5aca90c1e96fa9bdb",
+    "semantic_hash": "da1bded9fa2f4bb5aca90c1e96fa9bdb"
+  },
+  "assets/images/mux-FHz8NP01m1g9j4zStyj1XZfio4fLsLkHz.mp4": {
+    "mtime": 1792412192.8782349,
+    "seen": 1792414776.410492,
+    "ast_hash": "552c461671ca19510364223b22fe7ffc",
+    "semantic_hash": "552c461671ca19510364223b22fe7ffc"
+  },
+  "assets/images/mux-Q2PGRS54ZVUS418j1vLtqaaoa01lAh5KM.mp4": {
+    "mtime": 1792412192.4642315,
+    "seen": 1792414776.410494,
+    "ast_hash": "0b14bb7deb9cfd781c3686b658f284b3",
+    "semantic_hash": "0b14bb7deb9cfd781c3686b658f284b3"
+  },
+  "assets/images/mux-g01MHyRNqn01zJw6x81ckEU1CILwna5kTF.mp4": {
+    "mtime": 1792412192.4662316,
+    "seen": 1792414776.4104965,
+    "ast_hash": "920909fdaee5ed1c7f4f03954efcacef",
+    "semantic_hash": "920909fdaee5ed1c7f4f03954efcacef"
+  },
+  "assets/images/mux-hXfMGSk00sYeao99EqE8eqg3lRjNXNrDE.mp4": {
+    "mtime": 1792412192.6232328,
+    "seen": 1792414776.4104989,
+    "ast_hash": "b64209d832423d0e1eb80305b591f0df",
+    "semantic_hash": "b64209d832423d0e1eb80305b591f0df"
+  },
+  "assets/images/mux-moiR01sgh1u3bxRJ00nnzsQ202B7uZT7BX4.mp4": {
+    "mtime": 1792412192.6362329,
+    "seen": 1792414776.410501,
+    "ast_hash": "887034b1b8de2fa1870a5b28dedfa8f8",
+    "semantic_hash": "887034b1b8de2fa1870a5b28dedfa8f8"
+  }
+}
